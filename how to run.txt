@@ -1,0 +1,2 @@
+COM: python pacman.py -p AlphaBetaAgent -l MediumClassic -a depth=3 -q -n 3
+PLAYER: python pacman.py -l ContestClassic
